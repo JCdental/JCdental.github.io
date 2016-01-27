@@ -35,16 +35,19 @@
 				<div class="clearfix">
 
 					<div class="right alt">
-						<a class="tab" href="#About"> 소개 	</a>
-						<a class="tab" href="#Mission"> 목표 </a>
-						<a class="tab" href="#Contact"> 연락처 	</a>
-						<a class="tab" href="index.html"> English </a>
+						<a class="tab" href="#About"> About 	</a>
+						<a class="tab" href="#Mission"> Mission  </a>
+						<a class="tab" href="#Contact"> Contact 	</a>
+						<a class="tab" href="/"> English </a>
 					</div>
 
 					<div class="left-nav">
-						<a href="/" class="tab header-title">
-							앤아버 최종률 치과
-						</a>
+						<img src="/img/logo.jpg"
+							height="64"
+							width="453"
+							noloading
+							alt="">
+						</img>
 					</div>
 
 				</div>
@@ -57,7 +60,7 @@
 			<section class="hero" id="About">
 				<div class="container">
 					<div class="row">
-						<h1> 환자 중심의 따뜻한 치과 </h1>
+						<h1> Dentistry From the Heart </h1>
 						<div class="four columns">
 							<p class="intro">
 								<amp-img src="/img/JongryulChoi.png"
@@ -70,14 +73,14 @@
 						</div>
 						<div class="six columns">								
 							<p class="intro">
-								앤아버 최종률 치과에 오신 걸 환영합니다. 
-								최종률 원장님은 1998년도에 미시간대학 치의학과를 졸업한 이후 뚝심있는 의료철학으로 환자 중심의 의료서비스를 제공하고 있습니다. 	
+								Welcome to JC Dental Clinic at Ann Arbor!
+								Dr. Choi has been offering high quality dental care since graduating from The University of Michigan School of Dentistry in 1998.
 								<br>
 								<br>
-								최종률 원장님은 최신 치과기술에 관한 많은 교육 세미나와 학회를 참석하여 모든 환자들에게 진심 어린 마음으로 최첨단의 서비스를 제공합니다.
+								He attends many educational seminars and conferences on the latest dental technology and materials to provide state-of-the-art services in a professional and heartfelt manner to all of his patients.
 								<br>
 								<br>
-								소아치과학, 치아미용, 치주병학, 근관치료, 크라운기법, 브릿지, 임플란트, 구강과 수술, 틀니 등 전문적인 의료기술이 요구되는 시술에 있어서의 경험이 풍부합니다. 
+								He has experiences in pediatric dentistry, cosmetic dentistry, periodontics, root canals, crowns, bridges, implants, oral surgery, and dentures.
 							</p>
 						</div>
 					</div>
@@ -87,19 +90,19 @@
 			<section class="blade third" id="Mission">
 				<div class="container">
 					<div class="row">
-						<h1> 병원 목표 </h1>
+						<h1> Mission Statement </h1>
 
 						<ul>
-							<li> 모든 환자를 가족과 같이 대합니다. </li>
+							<li> <b>T</b>reating each and every person like family </li>
 							<ul>
-								<li> 모든 환자의 결정 및 재정 사항을 존중합니다.</li>
-								<li> 모든 환자가 현명한 결정을 할수 있도록 알려드립니다.</li>
-								<li> 모든 환자에게 깨끗하고 쾌적한 경험을 드립니다.</li>
+								<li> <b>R</b>especting patient's desires, decisions, and finance </li>
+								<li> <b>E</b>ducating patients, so they can make a desirable, informed choices </li>
+								<li> <b>E</b>xperiencing a clean and pleasant atmosphere </li>
 							</ul>
-							<li> 모든 환자에게 진심 어리고 성실한 치과 진료를 제공합니다. </li>
+							<li> <b>P</b>roviding heartfelt and genuine dental care </li>
 						</ul>
 						<br><br>
-						<h1> JC Dental은 아래의 협회의 속해 있습니다.</h1>
+						<h1> Proud Member of </h1>
 					</div>
 
 					<div class="image-container">
@@ -165,22 +168,23 @@
 				<div class="container">
 					<div class="row">
 						<div class="twelve columns">
-							<h1> 연락처 </h1>
+							<h1> Contact Information </h1>
 						</div>	
 
 						<div class="six columns">
 							<p class="about-contact">
 								<strong>Call for an appointment</strong><br>
-								JC Dental은 응급치료환자에게 항상 열려있습니다. <br>
-								야간 또는 토요일 예약도 가능합니다.
+								Dr. Choi is always available for Emergency Care <br>
+								Evening and Saturday appointments are available
+
 								<ul>
-									<li>&phone;   전화 : 734-572-4476 </li> 
-									<li>&#128224; 팩스 : 734-572-4479 </li>
-									<li>&#128231; 이메일: jcdental@jcdentalclinic.com </li>
+									<li>&phone;   Phone : 734-572-4476 </li> 
+									<li>&#128224; Fax   : 734-572-4479 </li>
+									<li>&#128231; E-mail: jcdental@jcdentalclinic.com </li>
 								</ul>
 								<br>
 								<a class="go-button" href="/contact/">
-									연락주세요
+									CONTACT US
 								</a>
 							</p>
 						</div>
